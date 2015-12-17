@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
+<install version="1.5" type="template">
+	<name>ColdStone</name>
+	<creationDate>10/04/09</creationDate>
+	<author>Dosonaro</author>
+	<authorEmail>info@dosonaro.com</authorEmail>
+	<authorUrl>http://www.dosonaro.com</authorUrl>
+	<copyright>Dosonaro</copyright>
+	<license>CC3</license>
+	<version>1.0.0</version>
+	<description><![CDATA[
+	<img src="../templates/coldstone/template_thumbnail.png" align="right" style="margin: 0px 0px 10px 10px;" />
+	<div style="font-size: 13px;">
+ColdStone is a Template from <a href="http://www.dosnaro.com">Dosonaro</a>.
+<br /><br /><span style="color: #ff0000;"><b>NOTE: If you have any problems or questions please visit our forum <a href="http://www.dosonaro.com/en/forum">here</a></b></span>
+<br /><br />Dosonaro website<br /><a href="http://www.dosonaro.com/">http://www.dosonaro.com</a>.
+<br /><br />Please read our How to<br /><a href="http://www.dosonaro.com/en/forum?func=view&catid=44&id=302/">How to</a>.
+</div>
+]]></description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>params.ini</filename>
+		<folder>html</folder>
+		<folder>img</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>topmenu</position>
+		<position>menu</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>footer</position>
+	</positions>
+</install>
